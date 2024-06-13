@@ -1,6 +1,6 @@
 # pyatlas
 
-A python wrapper of [UVAtlasTool](https://github.com/microsoft/UVAtlas).
+A python wrapper of [UVAtlasTool](https://github.com/microsoft/UVAtlas). Tested on Linux(Ubuntu22.04) and python 3.10.14.
 
 <img src="./assets/bunny.png" width=512px />
 
