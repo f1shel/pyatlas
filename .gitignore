@@ -1,0 +1,6 @@
+*.obj
+*.egg-info
+build/
+dist/
+*.txt
+!CMakeLists.txt
