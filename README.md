@@ -4,6 +4,8 @@ A python wrapper of [UVAtlasTool](https://github.com/microsoft/UVAtlas). Tested 
 
 <img src="./assets/bunny.png" width=512px />
 
+<img src="./assets/comp.png" width=1024px />
+
 
 ## Installation
 
