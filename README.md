@@ -1,5 +1,7 @@
 # pyatlas
 
+**Deprecated: please use [Open3d](https://www.open3d.org/docs/release/python_api/open3d.t.geometry.TriangleMesh.html#open3d.t.geometry.TriangleMesh.compute_uvatlas) and refer to [issue #1](https://github.com/f1shel/pyatlas/issues/1)**
+
 A python wrapper of [UVAtlasTool](https://github.com/microsoft/UVAtlas). Tested on Linux(Ubuntu22.04) and python 3.10.14.
 
 <img src="./assets/bunny.png" width=512px />
