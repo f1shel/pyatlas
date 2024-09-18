@@ -116,7 +116,6 @@ atlas(
     if (FAILED(hr)) {
         std::cerr << "failed to validate " << int(hr) << std::endl;
         std::cout << "try to clean" << std::endl;
-        HRESULT Clean(
         std::vector<uint32_t> dupVerts;
         hr = DirectX::Clean(indices.data(), nFacesOriginal, nVertsOriginal, adjacency.data(), nullptr, dupVerts, true);
         if ( FAILED(hr) ) {
